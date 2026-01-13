@@ -1,0 +1,15 @@
+services:
+  website:
+    build: .
+    container_name: los-nachos-website
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+    networks:
+      - web
+
+networks:
+  web:
+    external: true
