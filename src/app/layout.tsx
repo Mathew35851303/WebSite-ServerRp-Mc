@@ -7,6 +7,10 @@ export const metadata: Metadata = {
   title: 'UTOPIA RPMC - Serveur Minecraft Post-Apocalyptique',
   description: 'Rejoignez UTOPIA RPMC, un serveur Minecraft post-apocalyptique unique. Survivez, construisez et dominez dans un monde ravagé.',
   keywords: ['minecraft', 'serveur', 'post-apocalyptique', 'survival', 'utopia rpmc'],
+  icons: {
+    icon: '/image/logo.png',
+    apple: '/image/logo.png',
+  },
   openGraph: {
     title: 'UTOPIA RPMC',
     description: 'Serveur Minecraft Post-Apocalyptique',
