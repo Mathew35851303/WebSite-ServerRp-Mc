@@ -17,7 +17,7 @@ const footerLinks = {
   ],
   reseaux: [
     { name: 'Discord', href: 'https://discord.gg/VPqdAzKhVv', external: true },
-    { name: 'GitHub', href: 'https://github.com/Mathew3585/los-nachos-launcher', external: true },
+    { name: 'GitHub', href: 'https://github.com/Mathew3585/utopia-rpmc-launcher', external: true },
   ],
 }
 
@@ -29,11 +29,11 @@ export default function Footer() {
         <div className="flex flex-col items-center mb-12">
           <img
             src="/image/logo.png"
-            alt="Los Nachos Chipies"
+            alt="Utopia RPMC"
             className="h-24 w-auto mb-4"
           />
           <p className="text-gray-500 text-center text-sm max-w-md">
-            Los Nachos Chipies est un serveur Minecraft post-apocalyptique.
+            Utopia RPMC est un serveur Minecraft post-apocalyptique.
             <br />
             Nous ne sommes pas affilié à Mojang AB.
           </p>
@@ -123,7 +123,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="border-t border-red-900/20 pt-8 text-center">
           <p className="text-gray-600 text-sm">
-            © {new Date().getFullYear()} Los Nachos Chipies. Tous droits réservés.
+            © {new Date().getFullYear()} Utopia RPMC. Tous droits réservés.
           </p>
         </div>
       </div>

@@ -371,7 +371,7 @@ export default function WikiPage() {
                 textShadow: '0 0 40px rgba(239, 68, 68, 0.5)',
               }}
             >
-              Los Nachos
+              Utopia RPMC
               <svg
                 className={`absolute -bottom-2 left-0 w-full transition-all duration-700 delay-500 ${
                   isVisible ? 'opacity-100 scale-x-100' : 'opacity-0 scale-x-0'

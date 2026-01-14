@@ -19,13 +19,13 @@ interface TeamMember {
 // Team data
 const teamMembers: TeamMember[] = [
   {
-    name: 'NachosLeader',
+    name: 'UtopiaLeader',
     role: 'Fondateur & Admin',
-    description: 'Créateur du serveur et visionnaire du projet Los Nachos Chipies. Passionné par les univers post-apocalyptiques.',
+    description: 'Créateur du serveur et visionnaire du projet Utopia RPMC. Passionné par les univers post-apocalyptiques.',
     avatar: '/image/team/founder.png',
     socials: {
-      discord: 'nachosleader',
-      twitter: '@nachosleader',
+      discord: 'utopialeader',
+      twitter: '@utopialeader',
     },
     color: '#ef4444', // red
   },
@@ -76,7 +76,7 @@ const teamMembers: TeamMember[] = [
     avatar: '/image/team/cm.png',
     socials: {
       discord: 'communityhero',
-      youtube: '@losnachoschipies',
+      youtube: '@utopiarpmc',
     },
     color: '#ec4899', // pink
   },
@@ -404,14 +404,14 @@ function PageHeader() {
             isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
           }`}
         >
-          L'équipe des{' '}
+          L'équipe{' '}
           <span
             className="text-red-500 relative"
             style={{
               textShadow: '0 0 40px rgba(239, 68, 68, 0.5)',
             }}
           >
-            Nachos
+            Utopia
             <svg
               className={`absolute -bottom-2 left-0 w-full transition-all duration-700 delay-500 ${
                 isVisible ? 'opacity-100 scale-x-100' : 'opacity-0 scale-x-0'

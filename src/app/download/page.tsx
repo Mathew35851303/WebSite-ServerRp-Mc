@@ -323,7 +323,7 @@ export default function DownloadPage() {
     async function fetchLatestRelease() {
       try {
         const response = await fetch(
-          'https://api.github.com/repos/Mathew3585/los-nachos-launcher/releases/latest'
+          'https://api.github.com/repos/Mathew3585/utopia-rpmc-launcher/releases/latest'
         )
         if (!response.ok) {
           throw new Error('Impossible de récupérer la dernière version')
@@ -511,7 +511,7 @@ export default function DownloadPage() {
                 </div>
 
                 <div className="flex-grow">
-                  <h2 className="text-2xl font-bold text-white">Los Nachos Launcher</h2>
+                  <h2 className="text-2xl font-bold text-white">Utopia RPMC Launcher</h2>
                   <p className="text-gray-400">Pour Windows 10/11</p>
                 </div>
 
@@ -545,7 +545,7 @@ export default function DownloadPage() {
                   </div>
                   <p className="text-red-400 mb-4">{error}</p>
                   <a
-                    href="https://github.com/Mathew3585/los-nachos-launcher/releases"
+                    href="https://github.com/Mathew3585/utopia-rpmc-launcher/releases"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-red-500 hover:text-red-400 underline transition-colors"
@@ -597,7 +597,7 @@ export default function DownloadPage() {
                     </a>
                   ) : (
                     <a
-                      href="https://github.com/Mathew3585/los-nachos-launcher/releases"
+                      href="https://github.com/Mathew3585/utopia-rpmc-launcher/releases"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block w-full bg-gradient-to-r from-red-600 to-red-700 hover:from-red-500 hover:to-red-600 text-white py-4 rounded-xl font-bold text-lg transition-all text-center"
@@ -636,7 +636,7 @@ export default function DownloadPage() {
           }`}
         >
           <a
-            href="https://github.com/Mathew3585/los-nachos-launcher/releases"
+            href="https://github.com/Mathew3585/utopia-rpmc-launcher/releases"
             target="_blank"
             rel="noopener noreferrer"
             className="group inline-flex items-center gap-2 text-gray-400 hover:text-white transition-colors"

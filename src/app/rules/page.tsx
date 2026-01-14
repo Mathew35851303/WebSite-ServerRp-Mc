@@ -468,7 +468,7 @@ export default function RulesPage() {
               <div>
                 <h2 className="text-xl font-bold text-red-500 mb-2">Important</h2>
                 <p className="text-gray-300">
-                  En jouant sur Los Nachos Chipies, vous acceptez ce règlement dans son intégralité.
+                  En jouant sur Utopia RPMC, vous acceptez ce règlement dans son intégralité.
                   Le staff se réserve le droit de sanctionner tout comportement jugé nuisible à la communauté,
                   même s'il n'est pas explicitement mentionné ici.
                 </p>

@@ -39,7 +39,7 @@ export default function Header() {
           <Link href="/" className="flex items-center">
             <img
               src="/image/logo.png"
-              alt="Los Nachos Chipies"
+              alt="Utopia RPMC"
               className="h-16 w-auto"
             />
           </Link>

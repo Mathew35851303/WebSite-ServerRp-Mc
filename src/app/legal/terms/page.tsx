@@ -11,11 +11,11 @@ interface Section {
 const sections: Section[] = [
   {
     title: 'Acceptation des conditions',
-    content: 'En accédant et en utilisant le serveur Minecraft Los Nachos Chipies et ses services associés (site web, Discord, launcher), vous acceptez d\'être lié par les présentes conditions d\'utilisation. Si vous n\'acceptez pas ces conditions, vous ne devez pas utiliser nos services.',
+    content: 'En accédant et en utilisant le serveur Minecraft Utopia RPMC et ses services associés (site web, Discord, launcher), vous acceptez d\'être lié par les présentes conditions d\'utilisation. Si vous n\'acceptez pas ces conditions, vous ne devez pas utiliser nos services.',
   },
   {
     title: 'Description du service',
-    content: 'Los Nachos Chipies est un serveur Minecraft privé proposant une expérience de jeu post-apocalyptique. Nous fournissons un launcher personnalisé permettant de se connecter au serveur avec les mods nécessaires pré-installés.',
+    content: 'Utopia RPMC est un serveur Minecraft privé proposant une expérience de jeu post-apocalyptique. Nous fournissons un launcher personnalisé permettant de se connecter au serveur avec les mods nécessaires pré-installés.',
   },
   {
     title: 'Conditions d\'accès',
@@ -38,7 +38,7 @@ const sections: Section[] = [
   },
   {
     title: 'Propriété intellectuelle',
-    content: 'Le contenu original créé pour Los Nachos Chipies (logo, textes, configurations) reste la propriété de l\'équipe du serveur. Minecraft est une marque déposée de Mojang AB / Microsoft. Nous ne sommes pas affiliés à Mojang ou Microsoft.',
+    content: 'Le contenu original créé pour Utopia RPMC (logo, textes, configurations) reste la propriété de l\'équipe du serveur. Minecraft est une marque déposée de Mojang AB / Microsoft. Nous ne sommes pas affiliés à Mojang ou Microsoft.',
   },
   {
     title: 'Sanctions et exclusion',
@@ -46,7 +46,7 @@ const sections: Section[] = [
   },
   {
     title: 'Limitation de responsabilité',
-    content: 'Los Nachos Chipies est fourni "tel quel" sans garantie d\'aucune sorte. Nous ne sommes pas responsables des pertes de données, des interruptions de service ou de tout dommage résultant de l\'utilisation de nos services.',
+    content: 'Utopia RPMC est fourni "tel quel" sans garantie d\'aucune sorte. Nous ne sommes pas responsables des pertes de données, des interruptions de service ou de tout dommage résultant de l\'utilisation de nos services.',
   },
   {
     title: 'Modifications',

@@ -11,7 +11,7 @@ interface Section {
 const sections: Section[] = [
   {
     title: 'Introduction',
-    content: 'Los Nachos Chipies respecte votre vie privée et s\'engage à protéger vos données personnelles. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations lorsque vous utilisez nos services.',
+    content: 'Utopia RPMC respecte votre vie privée et s\'engage à protéger vos données personnelles. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations lorsque vous utilisez nos services.',
   },
   {
     title: 'Données collectées',

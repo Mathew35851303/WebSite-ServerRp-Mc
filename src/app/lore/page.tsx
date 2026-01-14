@@ -28,11 +28,11 @@ const chapters: Chapter[] = [
   },
   {
     number: 3,
-    title: 'Los Nachos Chipies',
+    title: 'Utopia RPMC',
     paragraphs: [
-      "Au cœur de ce chaos, un refuge a émergé. On l'appelle Los Nachos Chipies – un nom étrange pour un endroit étrange, donné par ses premiers habitants avec un humour noir caractéristique des survivants.",
+      "Au cœur de ce chaos, un refuge a émergé. On l'appelle Utopia RPMC – un nom étrange pour un endroit étrange, donné par ses premiers habitants avec un humour noir caractéristique des survivants.",
       "Ici, les survivants de tous horizons se retrouvent. Certains cherchent la sécurité, d'autres le pouvoir. Certains veulent reconstruire, d'autres préfèrent régner sur les ruines. Mais tous partagent une chose : la volonté de survivre.",
-      "C'est ici que votre histoire commence. Que ferez-vous de ce nouveau monde ? Serez-vous un bâtisseur ou un destructeur ? Un héros ou un tyran ? À Los Nachos Chipies, seule la survie compte.",
+      "C'est ici que votre histoire commence. Que ferez-vous de ce nouveau monde ? Serez-vous un bâtisseur ou un destructeur ? Un héros ou un tyran ? À Utopia RPMC, seule la survie compte.",
     ],
   },
 ]
@@ -365,7 +365,7 @@ export default function LorePage() {
               isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
             }`}
           >
-            Découvrez les origines du monde dévasté de Los Nachos Chipies
+            Découvrez les origines du monde dévasté de Utopia RPMC
           </p>
 
           {/* Decorative line */}

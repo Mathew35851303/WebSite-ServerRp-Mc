@@ -407,7 +407,7 @@ export default function NewsPage() {
               isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
             }`}
           >
-            Toutes les dernières nouvelles du serveur Los Nachos Chipies. Mises à jour, événements et annonces importantes.
+            Toutes les dernières nouvelles du serveur Utopia RPMC. Mises à jour, événements et annonces importantes.
           </p>
         </div>
 
