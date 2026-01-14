@@ -17,7 +17,7 @@ const footerLinks = {
   ],
   reseaux: [
     { name: 'Discord', href: 'https://discord.gg/VPqdAzKhVv', external: true },
-    { name: 'GitHub', href: 'https://github.com/Mathew3585/utopia-rpmc-launcher', external: true },
+    { name: 'GitHub', href: 'https://github.com/Mathew35851303/utopia-launcher', external: true },
   ],
 }
 
